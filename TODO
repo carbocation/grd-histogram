@@ -1,0 +1,5 @@
+* all     : more uniform error handling. Make a descision about what method to 
+            use. e.g. log.Fatal / errors.New
+* testing : Place all tests in 3 files: main_test.go, main1d_test.go and 
+            main2d_test.go
+
